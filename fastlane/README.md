@@ -36,6 +36,14 @@ Prepare review-required metadata fields without submitting
 
 ## Mac
 
+### mac uploadbuild
+
+```sh
+[bundle exec] fastlane mac uploadbuild
+```
+
+Archive and upload a Mac App Store build
+
 ### mac upmeta
 
 ```sh
@@ -43,6 +51,14 @@ Prepare review-required metadata fields without submitting
 ```
 
 Upload Mac App Store metadata only
+
+### mac uppic
+
+```sh
+[bundle exec] fastlane mac uppic
+```
+
+Upload Mac App Store screenshots only
 
 ### mac reviewprep
 

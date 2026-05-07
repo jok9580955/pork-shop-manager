@@ -22,11 +22,12 @@
 - macOS Release 归档成功，版本为 `1.0 (2)`。
 - macOS 构建版本 `1.0 (2)` 已上传到 App Store Connect，Apple 正在处理或等待处理完成。
 - 已添加 App Store Connect 上传导出配置，可复用 `fastlane mac uploadbuild` 归档并上传 macOS 构建。
+- 已生成并上传 5 张简体中文 Mac App Store 截图，尺寸为 `1440x900`。
+- 已添加 `fastlane mac uppic`，可复用上传 macOS 截图。
 
 ## 待完成
 
 - App 内 UI 还没有 `.xcstrings` 本地化。
-- App Store 截图尚未生成。
 - App 隐私问卷尚未填写。
 - App Store Connect 中构建处理完成后，需要在版本页选择构建版本 `1.0 (2)`。
 - 价格/销售范围需要在 App Store Connect 确认。

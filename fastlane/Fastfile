@@ -154,6 +154,26 @@ platform :mac do
     )
   end
 
+  desc "Upload Mac App Store screenshots only"
+  lane :uppic do
+    api_key = asc_api_key
+    deliver(
+      api_key: api_key,
+      app_identifier: app_identifier,
+      screenshots_path: "fastlane/screenshots",
+      skip_binary_upload: true,
+      skip_metadata: true,
+      skip_screenshots: false,
+      submit_for_review: false,
+      automatic_release: false,
+      run_precheck_before_submit: false,
+      precheck_include_in_app_purchases: false,
+      force: true,
+      platform: "osx",
+      overwrite_screenshots: true
+    )
+  end
+
   desc "Prepare Mac review-required metadata fields without submitting"
   lane :reviewprep do
     api_key = asc_api_key
