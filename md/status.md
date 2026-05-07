@@ -11,14 +11,13 @@
 - 核算单支持保存并回写首页。
 - 核算单支持本地 JSON 持久化。
 - `fastlane/metadata/zh-Hans` 中文商店文案已生成。
-- 隐私政策和支持页面已生成到 `docs/`。
+- 隐私政策和支持页面已生成到 `docs/` 并通过 GitHub Pages 发布。
 
 ## 待完成
 
 - Bundle ID 需要换成真实、可上架的反向域名格式。
 - App Store Connect API key / Fastlane 尚未配置。
-- 隐私政策和支持页面尚未发布为公网 URL。
-- metadata 中的隐私/支持链接仍是占位链接。
+- App Store Connect API key / Fastlane 上传 lanes 尚未配置。
 - App Store 截图尚未生成。
 - App 隐私问卷尚未填写。
 - 审核联系信息、年龄分级、价格、版权、内容权利尚未完成。
@@ -26,4 +25,4 @@
 
 ## 下一步建议
 
-先初始化或连接 GitHub 仓库，发布 `docs/` 页面，再把真实隐私/支持 URL 写回 metadata。
+配置 Fastlane 和 App Store Connect API key，然后准备截图模式和商店截图。

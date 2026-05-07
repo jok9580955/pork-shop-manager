@@ -5,9 +5,15 @@
 - `docs/privacy/index.html`
 - `docs/support/index.html`
 
-## 当前阻塞
+## 已发布
 
-当前目录不是 Git 仓库，也没有 GitHub remote，因此还不能自动生成真实公开 URL。
+GitHub 仓库：
+
+- `https://github.com/jok9580955/pork-shop-manager`
+
+GitHub Pages：
+
+- `https://jok9580955.github.io/pork-shop-manager/`
 
 ## 发布后需要写回
 
@@ -18,7 +24,7 @@
 
 ## 推荐 URL 形态
 
-如果使用 GitHub Pages，URL 可类似：
+当前 URL：
 
-- `https://jok9580955.github.io/<repo>/privacy/`
-- `https://jok9580955.github.io/<repo>/support/`
+- `https://jok9580955.github.io/pork-shop-manager/privacy/`
+- `https://jok9580955.github.io/pork-shop-manager/support/`
