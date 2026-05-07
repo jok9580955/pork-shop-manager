@@ -1,0 +1,24 @@
+# Xcode
+DerivedData/
+build/
+*.xcuserstate
+*.xcscmblueprint
+*.moved-aside
+*.ipa
+*.xcarchive
+
+# macOS
+.DS_Store
+
+# Fastlane and private credentials
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/AuthKey_*.p8
+fastlane/.env
+*.p8
+
+# Local release artifacts
+*.jwt
+*.mobileprovision
