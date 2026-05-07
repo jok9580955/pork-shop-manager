@@ -1,0 +1,1 @@
+Metzgerei,Schwein,Lager,Finanzen,Kosten,ERP,Kunden,Verkauf,Zuschnitt,Gewinn

@@ -1,0 +1,1 @@
+Pork Shop Manager ayuda a carnicerías pequeñas a calcular rendimiento de corte, costos, ventas estimadas e inventario. No requiere cuenta y guarda los datos en el dispositivo.

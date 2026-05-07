@@ -1,0 +1,1 @@
+Pork Shop Manager helpt kleine slagerijen met inkoop, snijrendement, kosten, voorraad en verwachte winst. Gegevens blijven lokaal op het apparaat.

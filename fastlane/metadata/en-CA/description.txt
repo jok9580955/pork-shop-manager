@@ -1,0 +1,1 @@
+Pork Shop Manager is built for small butcher shops. Record purchase weight, cutting parts, costs, yield rate, expected revenue and gross profit. Your records stay on your device.

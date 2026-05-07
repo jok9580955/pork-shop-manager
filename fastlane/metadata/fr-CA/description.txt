@@ -1,0 +1,1 @@
+Pork Shop Manager aide les petites boucheries à calculer le rendement de découpe, les coûts, l inventaire et le profit prévu. Les données restent sur votre appareil.

@@ -1,0 +1,1 @@
+butcher,pork,inventory,finance,costing,ERP,customers,sales,cutting,profit

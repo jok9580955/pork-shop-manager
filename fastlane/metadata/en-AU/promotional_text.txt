@@ -1,0 +1,1 @@
+Run a small butcher shop with cutting yield, inventory and finance records.

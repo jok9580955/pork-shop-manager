@@ -1,0 +1,1 @@
+Kelola pemotongan, inventori, pelanggan, dan catatan keuangan.

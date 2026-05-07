@@ -1,0 +1,1 @@
+Administra cortes de cerdo, inventario, clientes y finanzas.

@@ -1,0 +1,1 @@
+Pork Shop Manager pomáhá malým řeznictvím zaznamenat nákup, porcování, výtěžnost, náklady, sklad a finanční přehledy. Data jsou uložena místně v zařízení.

@@ -1,0 +1,1 @@
+Pork Shop Manager ajută măcelăriile mici să înregistreze achiziții, tăieri, randament, costuri, stoc și profit estimat. Datele sunt salvate local.

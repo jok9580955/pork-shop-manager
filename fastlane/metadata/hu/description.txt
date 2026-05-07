@@ -1,0 +1,1 @@
+A Pork Shop Manager segít kis hentesüzleteknek rögzíteni a beszerzést, vágási részeket, hozamot, költségeket, készletet és várható nyereséget.

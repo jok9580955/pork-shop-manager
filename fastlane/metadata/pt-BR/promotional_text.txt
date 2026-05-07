@@ -1,0 +1,1 @@
+Gestão de açougue com cortes, rendimento, estoque e finanças.

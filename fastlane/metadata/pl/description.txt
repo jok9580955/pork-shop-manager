@@ -1,0 +1,1 @@
+Pork Shop Manager pomaga małym sklepom mięsnym rejestrować zakup, rozbiór, wydajność, koszty, zapasy i przewidywany zysk. Dane są zapisywane lokalnie.

@@ -1,0 +1,1 @@
+A practical shop manager for pork cutting, stock and finance records.

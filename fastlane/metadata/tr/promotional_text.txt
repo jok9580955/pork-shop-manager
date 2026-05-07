@@ -1,0 +1,1 @@
+Kasaplar için parçalama, stok ve finans yönetimi.

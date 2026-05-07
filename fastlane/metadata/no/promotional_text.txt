@@ -1,0 +1,1 @@
+Butikkstyring for skjæring, lager og økonomi.

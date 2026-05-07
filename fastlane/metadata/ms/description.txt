@@ -1,0 +1,1 @@
+Pork Shop Manager membantu kedai daging kecil merekod pembelian, bahagian potongan, hasil, kos, inventori dan anggaran untung. Data disimpan secara tempatan.

@@ -1,0 +1,1 @@
+Pork Shop Manager pomáha malým mäsiarstvám evidovať nákup, porcovanie, výťažnosť, náklady, sklad a očakávaný zisk. Dáta sa ukladajú lokálne.

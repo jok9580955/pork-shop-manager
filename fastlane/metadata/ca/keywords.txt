@@ -1,0 +1,1 @@
+carnisseria,porc,estoc,finances,costos,ERP,clients,vendes,tall,benefici

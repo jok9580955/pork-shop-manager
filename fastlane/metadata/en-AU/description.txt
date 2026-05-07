@@ -1,0 +1,1 @@
+Pork Shop Manager helps small butcher shops record purchases, cutting parts, yield rate, costs, inventory and expected profit. Records are saved locally on your device and no login is required.

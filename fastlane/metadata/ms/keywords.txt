@@ -1,0 +1,1 @@
+kedai daging,babi,inventori,kewangan,kos,ERP,pelanggan,jualan,potong,untung

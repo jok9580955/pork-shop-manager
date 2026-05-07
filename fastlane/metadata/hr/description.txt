@@ -1,0 +1,1 @@
+Pork Shop Manager pomaže malim mesnicama bilježiti nabavu, rezanje, randman, troškove, zalihe i očekivanu dobit. Podaci se spremaju lokalno.

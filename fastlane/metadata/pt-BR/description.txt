@@ -1,0 +1,1 @@
+Pork Shop Manager ajuda pequenos açougues a registrar compras, cortes, rendimento, custos, estoque e lucro estimado. Os dados ficam salvos localmente no dispositivo.

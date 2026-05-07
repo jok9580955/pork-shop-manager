@@ -1,0 +1,1 @@
+lihakauppa,sianliha,varasto,talous,kustannus,ERP,asiakkaat,myynti,leikkaus,voitto

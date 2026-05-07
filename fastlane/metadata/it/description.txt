@@ -1,0 +1,1 @@
+Pork Shop Manager aiuta piccole macellerie a registrare acquisti, tagli, resa, costi, scorte e profitto previsto. I dati restano salvati sul dispositivo.

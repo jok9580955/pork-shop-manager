@@ -1,0 +1,1 @@
+kasap,domuz,stok,finans,maliyet,ERP,müşteri,satış,parçalama,kâr

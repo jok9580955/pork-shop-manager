@@ -1,0 +1,1 @@
+Gestione macelleria per taglio, resa, scorte e finanze.

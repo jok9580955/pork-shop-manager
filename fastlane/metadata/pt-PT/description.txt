@@ -1,0 +1,1 @@
+Pork Shop Manager ajuda pequenos talhos a registar compras, cortes, rendimento, custos, stock e lucro previsto. Os dados ficam guardados localmente.

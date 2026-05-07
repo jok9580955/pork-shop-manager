@@ -1,0 +1,1 @@
+Pork Shop Manager giúp cửa hàng thịt nhỏ ghi nhận mua hàng, phần cắt, tỷ lệ ra thịt, chi phí, tồn kho và lợi nhuận dự kiến. Dữ liệu được lưu cục bộ.

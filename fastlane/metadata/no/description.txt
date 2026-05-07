@@ -1,0 +1,1 @@
+Pork Shop Manager hjelper små kjøttbutikker med å registrere innkjøp, skjæring, utbytte, kostnader, lager og forventet fortjeneste. Data lagres lokalt.

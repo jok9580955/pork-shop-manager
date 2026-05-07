@@ -1,0 +1,1 @@
+Pork Shop Manager hilft kleinen Metzgereien, Einkauf, Zuschnitt, Ausbeute, Kosten, Lager und erwarteten Gewinn einfach zu erfassen. Die Daten bleiben lokal auf dem Gerät.

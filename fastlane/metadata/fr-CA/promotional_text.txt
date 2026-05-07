@@ -1,0 +1,1 @@
+Gestion de boucherie pour découpe, rendement, inventaire et finances.

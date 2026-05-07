@@ -1,0 +1,1 @@
+Pork Shop Manager auttaa pieniä lihakauppoja kirjaamaan ostot, leikkaukset, tuoton, kustannukset, varaston ja arvioidun voiton. Tiedot tallennetaan paikallisesti.

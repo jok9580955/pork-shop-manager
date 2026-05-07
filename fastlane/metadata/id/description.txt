@@ -1,0 +1,1 @@
+Pork Shop Manager membantu toko daging kecil mencatat pembelian, bagian potong, hasil potong, biaya, inventori, dan estimasi laba. Data disimpan lokal di perangkat.

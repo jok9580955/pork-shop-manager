@@ -1,0 +1,1 @@
+Pork Shop Manager aide les petites boucheries à enregistrer achats, pièces de découpe, rendement, coûts, stock et marge prévisionnelle. Aucune connexion requise.

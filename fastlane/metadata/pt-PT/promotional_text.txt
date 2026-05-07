@@ -1,0 +1,1 @@
+Gestão de talho para cortes, rendimento, stock e finanças.

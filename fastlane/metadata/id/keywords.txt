@@ -1,0 +1,1 @@
+toko daging,babi,inventori,keuangan,biaya,ERP,pelanggan,penjualan,potong,laba

@@ -1,0 +1,1 @@
+Pork Shop Manager hjælper små slagterbutikker med at beregne udbytte, kostpris, lager og forventet fortjeneste. Dine driftsdata gemmes lokalt på enheden.

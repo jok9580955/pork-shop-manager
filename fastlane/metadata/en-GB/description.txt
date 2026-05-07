@@ -1,0 +1,1 @@
+Pork Shop Manager helps small meat shops calculate cutting yield, track stock, review costs and keep simple finance records. It works without an account and stores records locally.

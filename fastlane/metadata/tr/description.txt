@@ -1,0 +1,1 @@
+Pork Shop Manager küçük et mağazalarının alış, parçalama, verim, maliyet, stok ve beklenen kâr kayıtlarını tutmasına yardımcı olur. Veriler cihazda yerel olarak saklanır.

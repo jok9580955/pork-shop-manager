@@ -1,0 +1,1 @@
+Pork Shop Manager ayuda a pequeñas carnicerías a registrar compras, cortes, rendimiento, costes, inventario y beneficio estimado. Los datos se guardan localmente en el dispositivo.

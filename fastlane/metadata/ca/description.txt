@@ -1,0 +1,1 @@
+Pork Shop Manager ajuda petites carnisseries a calcular el rendiment del tall, revisar costos, seguir l estoc i conservar registres de negoci al dispositiu.

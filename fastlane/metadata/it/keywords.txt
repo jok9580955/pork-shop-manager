@@ -1,0 +1,1 @@
+macelleria,maiale,scorte,finanze,costi,ERP,clienti,vendite,taglio,profitto

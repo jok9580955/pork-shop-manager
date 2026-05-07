@@ -1,0 +1,1 @@
+boucherie,porc,inventaire,finances,coûts,ERP,clients,ventes,découpe,profit
