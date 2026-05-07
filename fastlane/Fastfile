@@ -1,3 +1,5 @@
+require "shellwords"
+
 default_platform(:ios)
 
 def app_identifier
@@ -33,6 +35,46 @@ def app_review_information_from_env
     demo_password: "",
     notes: ENV.fetch("APP_REVIEW_NOTES", "This app does not require login. No demo account is required.")
   }
+end
+
+def project_name
+  "猪肉铺店铺管家-分割核算-出肉统计"
+end
+
+def mac_archive_path
+  "build/#{project_name}-macOS.xcarchive"
+end
+
+def app_store_export_options_path
+  "scripts/export_options_app_store_connect.plist"
+end
+
+def archive_mac_app
+  sh([
+    "xcodebuild",
+    "-project", "#{project_name}.xcodeproj",
+    "-scheme", project_name,
+    "-configuration", "Release",
+    "-destination", "generic/platform=macOS",
+    "-allowProvisioningUpdates",
+    "clean",
+    "archive",
+    "-archivePath", mac_archive_path
+  ].shelljoin)
+end
+
+def upload_mac_archive
+  sh([
+    "xcodebuild",
+    "-exportArchive",
+    "-archivePath", mac_archive_path,
+    "-exportPath", "build/export-macOS",
+    "-exportOptionsPlist", app_store_export_options_path,
+    "-allowProvisioningUpdates",
+    "-authenticationKeyPath", ENV.fetch("APP_STORE_CONNECT_API_KEY_KEYFILEPATH"),
+    "-authenticationKeyID", ENV.fetch("APP_STORE_CONNECT_API_KEY_ID"),
+    "-authenticationKeyIssuerID", ENV.fetch("APP_STORE_CONNECT_API_KEY_ISSUER_ID")
+  ].shelljoin)
 end
 
 platform :ios do
@@ -85,6 +127,12 @@ platform :ios do
 end
 
 platform :mac do
+  desc "Archive and upload a Mac App Store build"
+  lane :uploadbuild do
+    archive_mac_app
+    upload_mac_archive
+  end
+
   desc "Upload Mac App Store metadata only"
   lane :upmeta do
     api_key = asc_api_key
