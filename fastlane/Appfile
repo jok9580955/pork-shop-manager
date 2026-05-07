@@ -1,0 +1,8 @@
+app_identifier("macmini91datepmujubu222.-----------------")
+apple_id("jok9580955@gmail.com")
+team_id("QFZ87PFLK4")
+itc_team_id("QFZ87PFLK4")
+
+for_platform :mac do
+  app_identifier("macmini91datepmujubu222.-----------------")
+end

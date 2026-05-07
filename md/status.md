@@ -12,18 +12,23 @@
 - 核算单支持本地 JSON 持久化。
 - `fastlane/metadata` 已生成 39 个语言/地区的商店文案。
 - 39 个语言/地区的隐私政策和支持页面已生成到 `docs/` 并通过 GitHub Pages 发布。
+- GitHub 仓库已创建并推送：`https://github.com/jok9580955/pork-shop-manager`。
+- GitHub Pages 已启用：`https://jok9580955.github.io/pork-shop-manager/`。
+- Fastlane 已配置 `ios` 和 `mac` 上架辅助 lane。
+- macOS App Store 版本页的 39 语言元数据已上传成功。
+- macOS App Store 版本页的审核联系信息已上传成功。
+- macOS App Store 版本页的年龄分级问题已填写并上传成功。
+- macOS App Store 版本页的主分类按 Business 方向配置。
 
 ## 待完成
 
-- Bundle ID 需要换成真实、可上架的反向域名格式。
-- App Store Connect API key / Fastlane 尚未配置。
-- App Store Connect API key / Fastlane 上传 lanes 尚未配置。
 - App 内 UI 还没有 `.xcstrings` 本地化。
 - App Store 截图尚未生成。
 - App 隐私问卷尚未填写。
-- 审核联系信息、年龄分级、价格、版权、内容权利尚未完成。
-- Release 归档上传需要在上述材料准备后再做。
+- App Store Connect 还需要上传并选择一个有效构建版本。
+- 价格/销售范围需要在 App Store Connect 确认。
+- 当前 App Store Connect 红项来自 macOS App 版本页；如后续改为 iOS 首发，需要在 iOS 版本页再执行对应上传流程。
 
 ## 下一步建议
 
-配置 Fastlane 和 App Store Connect API key，然后补 App 内本地化与截图模式。
+先上传一个 macOS 有效构建版本，然后在 App Store Connect 填写 App 隐私问卷并选择构建版本。
