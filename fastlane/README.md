@@ -15,6 +15,14 @@ For _fastlane_ installation instructions, see [Installing _fastlane_](https://do
 
 ## iOS
 
+### ios uploadbuild
+
+```sh
+[bundle exec] fastlane ios uploadbuild
+```
+
+Archive and upload an iOS App Store build
+
 ### ios upmeta
 
 ```sh
@@ -22,6 +30,14 @@ For _fastlane_ installation instructions, see [Installing _fastlane_](https://do
 ```
 
 Upload App Store metadata only
+
+### ios uppic
+
+```sh
+[bundle exec] fastlane ios uppic
+```
+
+Upload iOS App Store screenshots only
 
 ### ios reviewprep
 
